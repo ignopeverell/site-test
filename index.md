@@ -1,7 +1,6 @@
 ---
-layout: page
-image:
-	path: /images/grin-banner.png
+title: Welcome to Grin
+image: /images/grin-banner.png
 ---
 
 Grin is experimental and unproven technology, use at your own risk
