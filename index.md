@@ -19,10 +19,10 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 			<h3 class="entry-title p-name">
 				Private
 			</h3>
-			<i class="fal fa-bolt"></i>
+			<i class="fas fa-bolt"></i>
 		</header>
 		<div class="entry-excerpt p-summary">
-			Using a MimbleWimble chain format and cherries on top, Grin is yummy privacy goodness. No addresses and some dandelions thrown in make it fluffy but unnoticeable.
+			Using a MimbleWimble chain format where the chain is all tied around, Grin is yummy privacy goodness. No addresses and some dandelions thrown in make it fluffy but unnoticeable.
 		</div>
 	</article>
 	<article class="entry h-entry">
