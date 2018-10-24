@@ -1,4 +1,8 @@
 - title: Home
   url: /
-- title: Pages
-  url: /pages/
+- title: Download
+  url: /download.html
+- title: Learn
+  url: /learn.html
+- title: Discuss
+  url: /discuss.html
