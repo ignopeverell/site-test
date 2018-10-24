@@ -7,6 +7,8 @@ image:
   caption: "MimbleWimble in Grin"
 ---
 
+# Modern cash for a privacy-minded future
+
 Grin is experimental and unproven technology, use at your own risk
 {: .notice--warning}
 
