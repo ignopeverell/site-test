@@ -2,4 +2,4 @@ remote_theme: "mmistakes/so-simple-theme"
 locale: "en-US"
 title: "Grin"
 description: "Modern cash for a privacy-minded future"
-logo: "/images/grin-yellow-smiley.png"
+logo: /images/grin-yellow-smiley.png
