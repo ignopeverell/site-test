@@ -1,5 +1,6 @@
 ---
 title: Welcome to Grin
+layout: post
 image:
 	path: /images/grin-banner.png
 	caption: MimbleWimble in Grin
