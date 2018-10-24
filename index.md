@@ -1,9 +1,9 @@
 ---
-title: Welcome to Grin
+title: "Welcome to Grin"
 layout: post
 image:
 	path: /images/grin-banner.png
-	caption: MimbleWimble in Grin
+	caption: "MimbleWimble in Grin"
 ---
 
 Grin is experimental and unproven technology, use at your own risk
