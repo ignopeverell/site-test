@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 image:
   path: /images/grin-banner.png
   thumbnail: /images/grin-yellow-smiley.png
