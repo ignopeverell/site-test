@@ -1,11 +1,13 @@
 ---
 title: Welcome to Grin
-image: /images/grin-banner.png
+image:
+	path: /images/grin-banner.png
+	caption: MimbleWimble in Grin
 ---
 
 Grin is experimental and unproven technology, use at your own risk
 {: .notice--warning}
 
-[Download](#){: .btn}
+[Download](#){: .btn .btn--warning}
 [Learn](#){: .btn .btn--primary}
 [Discuss](#){: .btn .btn--success}
