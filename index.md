@@ -9,7 +9,45 @@ image:
 Grin is experimental and unproven technology, use at your own risk
 {: .notice--warning}
 
-### Grin exists to open electronic transactions to all, without censorship or restrictions. Grin empowers anyone to transact or save modern money without the fear of external control or oppression. Grin is designed for the decades to come, not just tomorrow. Grin should be accessible to all, regardless of boundaries, culture, skills or access.
+### Grin exists to open electronic transactions to all, without censorship or restrictions.
+
+Grin empowers anyone to transact or save modern money without the fear of external control or oppression. Grin is designed for the decades to come, not just tomorrow. Grin should be accessible to all, regardless of boundaries, culture, skills or access.
+
+<div class="entries-grid">
+	<article class="entry h-entry">
+		<header class="entry-header">
+			<h3 class="entry-title p-name">
+				Private
+			</h3>
+			<i class="fal fa-bolt"></i>
+		</header>
+		<div class="entry-excerpt p-summary">
+			Using a MimbleWimble chain format and cherries on top, Grin is yummy privacy goodness. No addresses and some dandelions thrown in make it fluffy but unnoticeable.
+		</div>
+	</article>
+	<article class="entry h-entry">
+		<header class="entry-header">
+			<h3 class="entry-title p-name">
+				Scalable
+			</h3>
+			<i class="fas fa-feather-alt"></i>
+		</header>
+		<div class="entry-excerpt p-summary">
+			Before you even know it, your transactions are there and then *poof*, they're gone. It's like magic and bushwhacking rolled into one.
+		</div>
+	</article>
+	<article class="entry h-entry">
+		<header class="entry-header">
+			<h3 class="entry-title p-name">
+				Decentralized
+			</h3>
+			<i class="fas fa-arrows-alt"></i>
+		</header>
+		<div class="entry-excerpt p-summary">
+			I don't know who you are, you don't know who I am. But we're different people. In different places. We're all connected and yet we're not. No center baby.
+		</div>
+	</article>
+</div>
 
 ## Funding
 
