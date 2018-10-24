@@ -1,4 +1,5 @@
 ---
+layout: page
 image:
   path: /images/grin-banner.png
   thumbnail: /images/grin-yellow-smiley.png
