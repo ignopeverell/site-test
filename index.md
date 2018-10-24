@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Welcome to Grin"
 image:
 	path: /images/grin-banner.png
