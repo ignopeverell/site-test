@@ -22,7 +22,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 			</h3>
 		</header>
 		<div class="entry-excerpt p-summary">
-			Using a MimbleWimble chain format where the chain is all tied around, Grin is yummy privacy goodness. No addresses and some dandelions thrown in make it fluffy but unnoticeable.
+			Grin has no amounts and no addresses. Every piece of data on the blockchain is obscured and every transaction relayed through a special network to obscure their origin.
 		</div>
 	</article>
 	<article class="entry h-entry">
@@ -33,7 +33,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 			</h3>
 		</header>
 		<div class="entry-excerpt p-summary">
-			Before you even know it, your transactions are there and then *poof*, they're gone. It's like magic and bushwhacking rolled into one.
+			MimbleWimble leverages cryptography to allow most of the blockchain data to be removed. In particular, nearly all past transaction data is pruned.
 		</div>
 	</article>
 	<article class="entry h-entry">
@@ -44,7 +44,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 			</h3>
 		</header>
 		<div class="entry-excerpt p-summary">
-			I don't know who you are, you don't know who I am. But we're different people. In different places. We're all connected and yet we're not. No center baby.
+			Grin is developed by a set of open source developers dispersed throughout the world. It's not controlled by any company, fundation or individual.
 		</div>
 	</article>
 </div>

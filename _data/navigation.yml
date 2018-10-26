@@ -1,10 +1,10 @@
 - title: Home
   url: /
 - title: Download
-  url: /download.html
+  url: https://github.com/mimblewimble/grin/releases
 - title: Learn
   url: /learn.html
 - title: Blog
   url: /posts/
 - title: Discuss
-  url: /discuss.html
+  url: https://www.grin-forum.org
