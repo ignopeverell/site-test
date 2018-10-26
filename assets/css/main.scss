@@ -7,8 +7,17 @@ sitemap: false
 
 @import "so-simple";
 
+// wider columns
 .layout--home div.page-wrapper {
   max-width: 968px;
+}
+.layout--post div.page-wrapper {
+  max-width: 968px;
+}
+
+// hide logo on main page (it's already in the banner)
+.layout--home header.masthead {
+	display: none;
 }
 
 div.entries-grid {
