@@ -6,7 +6,7 @@ image:
   caption: "MimbleWimble in Grin"
 ---
 
-Grin is experimental and unproven technology, use at your own risk
+Grin is still in test mode, the release is planned for early 2019
 {: .notice--warning}
 
 ### Grin exists to open electronic transactions to all, without censorship or restrictions.
@@ -51,6 +51,6 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 
 ## Funding
 
-Grin is launched fairly, free of ICO, pre-mine or founder's reward. We rely on donations to keep working on the project. If you have the means, [please donate](funding.html).
+Grin is launched fairly, **free of ICO, pre-mine or founder's reward**. We rely on donations to keep working on the project. If you have the means, [please donate](funding.html).
 
 ### Past Benefactors

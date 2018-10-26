@@ -16,7 +16,7 @@ sitemap: false
 }
 
 // hide logo on main page (it's already in the banner)
-.layout--home header.masthead {
+.layout--home a.site-logo {
 	display: none;
 }
 
