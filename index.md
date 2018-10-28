@@ -6,10 +6,10 @@ image:
   caption: "MimbleWimble in Grin"
 ---
 
-Grin is still in test mode, the release is planned for early 2019
+Grin is being tested. The release is planned for early 2019.
 {: .notice--warning}
 
-### Grin exists to open electronic transactions to all, without censorship or restrictions.
+### Grin builds electronic transactions for all, without censorship or restrictions.
 
 Grin empowers anyone to transact or save modern money without the fear of external control or oppression. Grin is designed for the decades to come, not just tomorrow. Grin should be accessible to all, regardless of boundaries, culture, skills or access.
 
