@@ -25,9 +25,9 @@ title: "Learn about Grin"
 			</h3>
 		</header>
 		<div class="entry-excerpt p-summary">
-		  Grin is leverages many groundbreaking technology to improve privacy
+		  Grin is leveraging many groundbreaking technologies to improve privacy
 			and scalability, like MimbleWimble, Schnorr Signatures, bulletproofs,
-			Dandelion and more. [Check our resources](developer-resources).
+			Dandelion and more. [Check our developer resources](developer-resources).
 		</div>
 	</article>
 </div>
