@@ -54,6 +54,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 Grin is launched fairly, **free of ICO, pre-mine or founder's reward**. We rely on donations to keep working on the project. If you have the means, [we humbly ask you to please donate](funding.html).
 
 ### Funding contributors
+{::options parse_block_html="true" /}
 <div style="background-color: gray">
 [<img src="images/logos/bitonic-logo.svg" width="30%" style="padding:8px; vertical-align:middle;" title="Bitonic">](https://www.bitonic.nl/)
 [<img src="images/logos/blockcypher_logo_white.svg" width="30%" style="padding:8px; vertical-align:middle;" title="BlockCypher">](https://www.blockcypher.com/)
