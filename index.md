@@ -54,15 +54,15 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 Grin is launched fairly, **free of ICO, pre-mine or founder's reward**. We rely on donations to keep working on the project. If you have the means, [we humbly ask you to please donate](funding.html).
 
 ### Funding contributors
-
-## Companies
-[<img src="images/logos/bitonic-white.png" width="30%" style="padding:8px;vertical-align:middle;" title="Bitonic">](https://www.bitonic.nl/)
-[<img src="images/logos/blockcypher_logo_white.svg" width="30%" style="padding:8px;vertical-align:middle;" title="BlockCypher">](https://www.blockcypher.com/)
-[<img src="images/logos/cypher_capital.png" width="30%" style="padding:8px 0px 8px 8px;position: relative; top: 34px;" title="Cypher Capital">](http://cyphercapital.net)
-[<img src="images/logos/kr1_med.png" width="30%" style="padding:8px;vertical-align:left;position: relative; top: 10px" title="KR1">](https://www.kryptonite1.co/)
-[<img src="images/logos/kyokan_teal_white.png" width="30%" style="padding:8px;vertical-align:middle;position: relative; top: -60px;" title="Kyokan">](https://kyokan.io/)
-[<img src="images/logos/hashrabbit.png" width="30%" style="padding:8px;vertical-align:middle;position: relative; top: -65px;" title="Hashrabbit">](https://hashrabbit.co/)
-[<img src="images/logos/tmgox-logo.jpg" width="30%" style="padding:8px;vertical-align:middle;position: relative; top: -10px" title="TMGOX">](https://tmgox.com/)
+<div style="background-color: gray">
+[<img src="images/logos/bitonic-logo.svg" width="30%" style="padding:8px; vertical-align:middle;" title="Bitonic">](https://www.bitonic.nl/)
+[<img src="images/logos/blockcypher_logo_white.svg" width="30%" style="padding:8px; vertical-align:middle;" title="BlockCypher">](https://www.blockcypher.com/)
+[<img src="images/logos/cypher_capital.png" width="30%" style="padding:8px; vertical-align:middle;" title="Cypher Capital">](http://cyphercapital.net)
+[<img src="images/logos/kr1_med.png" width="30%" style="padding:8px; vertical-align:middle;" title="KR1">](https://www.kryptonite1.co/)
+[<img src="images/logos/kyokan_teal_white.png" width="30%" style="padding:8px; vertical-align:middle;" title="Kyokan">](https://kyokan.io/)
+[<img src="images/logos/hashrabbit.png" width="30%" style="padding:8px; vertical-align:middle;" title="Hashrabbit">](https://hashrabbit.co/)
+[<img src="images/logos/tmgox-logo.jpg" width="30%" style="padding:8px; vertical-align:middle;" title="TMGOX">](https://tmgox.com/)
+</div>
 
 ## Private funding contributors
 Aurel - Chris McCann - Jack Misteli Jean-Guillaume - Jameson Lopp - Max Tannahill - Michalis Kargakis - Redouan Ahaloui - Roy Blankman - Niels de Ruiter
