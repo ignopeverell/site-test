@@ -44,7 +44,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 			</h3>
 		</header>
 		<div class="entry-excerpt p-summary">
-			Grin is developed by a set of open source developers dispersed throughout the world. It's not controlled by any company, fundation or individual.
+			Grin is developed openly, by open source developers based in different countries. It's not controlled by any company, foundation or individual. The coin distribution is designed to be as fair (but not gratis) as is known to be possible.
 		</div>
 	</article>
 </div>
