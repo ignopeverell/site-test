@@ -53,7 +53,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 
 Grin is launched fairly, **free of ICO, pre-mine or founder's reward**. We rely on donations to keep working on the project. If you have the means, [we humbly ask you to please donate](funding.html).
 
-### Past Benefactors
+### Funding contributors
 
 ## Companies
 [<img src="images/logos/bitonic-white.png" width="30%" style="padding:8px;vertical-align:middle;" title="Bitonic">](https://www.bitonic.nl/)
@@ -64,10 +64,10 @@ Grin is launched fairly, **free of ICO, pre-mine or founder's reward**. We rely 
 [<img src="images/logos/hashrabbit.png" width="30%" style="padding:8px;vertical-align:middle;position: relative; top: -65px;" title="Hashrabbit">](https://hashrabbit.co/)
 [<img src="images/logos/tmgox-logo.jpg" width="30%" style="padding:8px;vertical-align:middle;position: relative; top: -10px" title="TMGOX">](https://tmgox.com/)
 
-## Private benefactors
+## Private funding contributors
 Aurel - Chris McCann - Jack Misteli Jean-Guillaume - Jameson Lopp - Max Tannahill - Michalis Kargakis - Redouan Ahaloui - Roy Blankman - Niels de Ruiter
 
-## Anonymous supporters
+## Anonymous funding contributors
 And all our great anonymous supporters! We're not forgetting your contribution, and are working to protect that choice!
 
 ## And you?
