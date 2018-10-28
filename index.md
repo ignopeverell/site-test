@@ -11,7 +11,7 @@ Grin is being tested. The release is planned for early 2019.
 
 ### Grin builds electronic transactions for all, without censorship or restrictions.
 
-Grin empowers anyone to transact or save modern money without the fear of external control or oppression. Grin is designed for the decades to come, not just tomorrow. Grin should be accessible to all, regardless of boundaries, culture, skills or access.
+Grin empowers anyone to transact or save modern money without the fear of external control or oppression. Grin is designed for the decades to come, not just tomorrow. Grin wants be usable by everyone, regardless of borders, culture, skills or access.
 
 <div class="entries-grid">
 	<article class="entry h-entry">
@@ -22,7 +22,7 @@ Grin empowers anyone to transact or save modern money without the fear of extern
 			</h3>
 		</header>
 		<div class="entry-excerpt p-summary">
-			Grin has no amounts and no addresses. Every piece of data on the blockchain is obscured and every transaction relayed through a special network to obscure their origin.
+			Grin has no amounts and no addresses. Transactions are additionally obscured. To hide where a newly created transaction comes from, it gets relayed privately (a "random walk") among peers before it is publicly announced.
 		</div>
 	</article>
 	<article class="entry h-entry">
