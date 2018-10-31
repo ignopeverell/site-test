@@ -1,0 +1,13 @@
+//
+// VARIABLES
+//
+
+// Colors
+$darkGreen: #1f2f26;
+
+// Mobile breakpoints
+@mixin mobile {
+  @media screen and (max-width: 640px) {
+    @content;
+  }
+}
