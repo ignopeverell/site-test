@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<section class="hero hero-bkg-animated is-fullheight is-default is-bold">
+<section class="hero is-fullheight is-default is-bold">
   <div class="hero-head">
     {% include navigation.html %}
   </div>
@@ -9,7 +9,7 @@ layout: default
     <div class="container has-text-centered">
       <div class="columns is-vcentered">
         <div class="column is-5">
-          <img src="assets/images/grin_mw_distort.svg" alt="Description">
+          <img src="assets/images/grin_mw_logo.svg" class="hero-logo" alt="Description">
         </div>
         <div class="column is-6 is-offset-1">
           <br><h1 class="title is-2" style="margin-bottom: 2rem;">
@@ -61,8 +61,8 @@ layout: default
             <h1 class="title">
               What's Grin?
             </h1>
-            <h2 class="subtitle">
-              Grin builds electronic transactions for all, without censorship or restrictions.
+            <h2>
+              Electronic transactions for all. Without censorship or restrictions.
             </h2>
             <p>
             Grin empowers anyone to transact or save modern money without the fear of external control or oppression. Grin is designed for the decades to come, not just tomorrow. Grin wants be usable by everyone, regardless of borders, culture, skills or access.
@@ -115,29 +115,77 @@ layout: default
           </section>
           <!-- //DESCRIPTION DOTS -->
 
-          <br><br>              
+          <section>
+              <div class="columns">
+                <div class="column">
+                  <div class="content">
+                    <h1 class="title is-1">
+                      Community Initiatives 
+                    </h1>
+
+                      <div class="tile is-ancestor">
+                        <div class="tile is-vertical is-parent">
+                          <div class="tile is-child box">
+                            <p class="subtitle">TestNet 4</p> <hr>
+                            <p>Grin’s fourth testnet has been <a href="https://www.grin-forum.org/t/grin-testnet-4-launch-announcement/993">released</a>! We need your help testing: if you’re able to compile from the source, <a href="https://github.com/mimblewimble/grin/blob/master/doc/build.md">see our building guide</a>.</p>
+                          </div>
+                          <div class="tile is-child box">
+                            <p class="subtitle">MainNet, Onwards!</p> <hr>
+                            <p>
+                            We’re currently hard at work in building the features required for mainnet. 
+                            <br><br>
+                            Check out our <a href="https://github.com/mimblewimble/grin/milestone/4">feature list</a> and jump in.
+                            </p>
+                          </div>
+                          <div class="tile is-child box">
+                            <p class="subtitle">
+                            <a href="securityaudit.html">Crowdfunding the Security Audit</a>
+                            </p> <hr>
+                            <p>
+                            TL;DR Grin is nearing its final phases of development before the release of its cryptocurrency network (mainnet).
+                            </p>
+                            <br><br>
+                            <p>
+                            To do so safely, the Grin codebase needs to undergo a security audit. We’re soliciting donations:
+                            <br><br>
+                            <ul>
+                              <li>bitcoin legacy <a class="address-link" href="https://live.blockcypher.com/btc/address/3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs/">3ChVP627KU5w4zu2rieFPF3wGXWQgmhvrs</a></li>
+                              <li>bitcoin segwit <a class="address-link" href="https://blockchair.com/bitcoin/address/bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65">bc1qdgs8vkpzr256qjlzlfht72z3mhcrdrt6wj2rfjw39j8us24gz8uq78qj65</a></li>
+                            </ul>
+                            </p>
+                            <br><br>
+                            <p>
+                            <a href="securityaudit.html">Read how we're conducting our security audit and status of funding.</a>
+                            </p>
+                          </div>
+                        </div>
+                      </div>
+                  </div>
+                </div>
+              </div>
+          </section>
 
           <!-- FUNDING -->
           <section>
             <h1 class="title is-1">
-              Funding
+              Community Funding
             </h1>
-            <p class="subtitle is-4">
+            <p>
             Grin is launched fairly, free of ICO, pre-mine or founder’s reward. We rely on donations to keep working on the project. Support the movement by purchasing some swag or making a donation.
             </p><br>
-            <a href="funding" class="button is-warning is-large" style="float: right;">Donate Now</a>
-            <a href="#" class="button is-info is-outlined is-large"><img src="assets/images/hat.png" style="height: 8rem;">Buy Swag</a>
+            <a href="funding" class="button is-warning is-large donate-button">Donate Now</a>
+            <a href="#" class="button is-info is-outlined is-large buy-swag-button">
+              <img src="assets/images/hat.png" style="height: 8rem;">Buy Swag
+            </a>
           </section><br><br>
           <!-- //FUNDING -->
 
-          <br><br>  
 
           <!-- PATRONS -->
           <section class="patron">
             <h1 class="title">
               Patrons
             </h1>
-
             <p>
             If you’re an individual, company or institution excited about the potential of Grin or MimbleWimble, we humbly ask if you’d consider making a financial contribution to the project’s development. We’re experimenting with a <a href="http://grin-tech.org/funding.html">100% community-driven funding model</a>.
             </p>
@@ -145,7 +193,7 @@ layout: default
             <br><br>
 
             <!-- COMPANY PATRONS -->
-            <div>
+            <div class=" companies">
               <h2 class="subtitle">
                 Companies
               </h2>
